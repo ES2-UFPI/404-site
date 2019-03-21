@@ -1,2 +1,3 @@
-# 404-spcpg-site
-Site of subscription to create a portal - Team 404
+# Sistema de Gerenciamento de Portais de Graduação (SGDPG)
+## Site - Team 404
+Site de inscrição para criar um portal
