@@ -2,19 +2,19 @@
 
 ## Sistema de Gerenciamento de Portais de Graduação - Site
   
-[Demo]([https://plataformasuniversitarias.github.io/](https://plataformasuniversitarias.github.io/))  ·  [Reportar Bug]([https://github.com/ES2-UFPI/404-site/issues](https://github.com/ES2-UFPI/404-site/issues))
+[Demo](https://plataformasuniversitarias.github.io/)  ·  [Reportar Bug](https://github.com/ES2-UFPI/404-site/issues)
 
 ## Tabela de Conteúdos
 
--   [Sobre o Projeto]()
-    -   [Feito com]()
--   [Introdução]()
-    -   [Pré-requisitos]()
-    -   [Instalação]()
--   [Uso]()
--   [Contribuição]()
--   [Licença]()
--   [Contato]()
+-   [Sobre o Projeto](https://github.com/ES2-UFPI/404-site#sobre-o-projeto)
+    -   [Feito com](https://github.com/ES2-UFPI/404-site#feito-com)
+-   [Introdução](https://github.com/ES2-UFPI/404-site#introdu%C3%A7%C3%A3o)
+    -   [Pré-requisitos](https://github.com/ES2-UFPI/404-site#pr%C3%A9-requisitos)
+    -   [Instalação](https://github.com/ES2-UFPI/404-site#instala%C3%A7%C3%A3o)
+-   [Uso](https://github.com/ES2-UFPI/404-site#uso)
+-   [Contribuindo](https://github.com/ES2-UFPI/404-site#contribuindo)
+-   [Licença](https://github.com/ES2-UFPI/404-site#licen%C3%A7a)
+-   [Contato](https://github.com/ES2-UFPI/404-site#contato)
 
 ## Sobre o Projeto
 
