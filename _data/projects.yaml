@@ -1,4 +1,4 @@
-- title: 
-  url:
-  image:
-  completed: false
+- title: Cadastro de Plataforma
+  url: https://plataformasuniversitarias.github.io/form.html
+  image: images/form.jpg
+  completed: true
