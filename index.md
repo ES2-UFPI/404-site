@@ -9,6 +9,6 @@ layout: home
 
 [Adailton Palhano](https://github.com/adailtonasp), Desenvolvedor
 
-[Felipe Barros](https://github.com/felipebarroscaminha), Desenvolvedor
+[Felipe Barros](https://github.com/felipebarroscaminha), Desenvolvedor e Líder de Desenvolvimento
 
 [Gabriel Araújo](https://github.com/gabriel-arauj), Desenvolvedor
